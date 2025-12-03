@@ -36,7 +36,7 @@ This Agent is designed to act as a helpful assistant as lease renewal with ai vo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/videosdk-community/lease-renewal-with-ai-voice-agent.git
+   git clone https://github.com/chaitraliVideosdk/lease-renewal-with-ai-voice-agent.git
    ```
 
 2. **Navigate to the project directory:**
